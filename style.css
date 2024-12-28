@@ -1300,7 +1300,7 @@ font-weight: 800;
     font-size: 1.5rem;
     margin-top: 1.1rem;
     margin-right: 75rem;
-    border-right: .3rem solid var(--main-color);
+   
 }
 
 .proj-img{
@@ -1333,7 +1333,6 @@ li{
     margin-left:77rem;
     margin-top: 2rem;
     position: relative;
-border-left: .3rem solid var(--main-color);
     font-size: 1.5rem;
 }
 .p2 .proj-img2{
@@ -1362,7 +1361,7 @@ border-left: .3rem solid var(--main-color);
     font-size: 1.5rem;
     margin-top: 1.1rem;
     margin-right: 75rem;
-    border-right: .3rem solid var(--main-color);
+    
 }
 
 .proj-img3{
@@ -1392,8 +1391,7 @@ border-left: .3rem solid var(--main-color);
     margin-left:77rem;
     margin-top: 2rem;
     position: relative;
-border-left: .3rem solid var(--main-color);
-    font-size: 1.5rem;
+ font-size: 1.5rem;
 }
  .proj-img4{
     margin-right: 66rem;
